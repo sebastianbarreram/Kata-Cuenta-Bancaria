@@ -82,3 +82,9 @@ date       | credit   | debit    | balance
 13/01/2021 | 2000.00  |          | 3000.00  
 10/01/2021 | 1000.00  |          | 1000.00   
 
+
+## Ejecución
+
+Para el buen funcionamiento de la aplicación se debe ejecutar el archivo StartApp.java en un entorno de desarrollo integrado (IDE) como por ejemplo con IntelliJ o un editor de código fuente como lo es Visual Studio Code.
+
+El resultado se muestra en la terminal.
